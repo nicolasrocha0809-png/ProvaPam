@@ -1,0 +1,22 @@
+.tema-claro {
+  background-color: #ffffff;
+  color: #333333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease; 
+}
+
+.tema-escuro {
+  background-color: #222222;
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
